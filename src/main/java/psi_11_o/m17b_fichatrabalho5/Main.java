@@ -1,5 +1,13 @@
 package psi_11_o.m17b_fichatrabalho5;
+/**
+ * 
+ * @author a22029
+ */
 
+/**
+ * 
+ * @version 1.0  13.02.2023
+ */
 public class Main {
 
     public static void main(String[] args) {
